@@ -1,0 +1,78 @@
+.nav-item{
+    display: block;
+  }
+  .footer h3{
+      margin-bottom: 0.75em;
+  }
+  
+  .footer p{
+      margin-bottom: 0.875em;
+      transition: 1s;
+  }
+  
+  .footer a:hover{
+      color: burlywood;
+  }
+  
+  .footer a{
+      color: white;
+  }
+  
+  .footer .row .col{
+      padding: 2em 0;
+  }
+  
+  .navbar-toggler{
+    margin: 0.45em;
+  }
+  
+  .login-button{
+    margin-left: 1em;
+  }
+  
+  .login-icon{
+    padding: 1rem;
+    font-size: 1.25rem;
+    width: 3rem;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    transition: 0.5s;
+  }
+  
+  .social-media-icon {
+    padding: 1.25rem;
+    font-size: 1.875rem;
+    width: 4.375rem;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    transition: 0.5s;
+  }
+  
+  .social-media-icon:hover{
+      background: white;
+      color: black !important;
+      transition: 0.5s;
+  }
+  
+  .fa-facebook {
+    background: #3b5998;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #55acee;
+    color: white;
+  }
+
+  .navbar-brand img{
+      width: 50px;
+      height: 50px;
+  }
+  
